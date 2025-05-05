@@ -11,7 +11,7 @@ HTML, CSS , Javascript
 # Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/IshaTrivedi12/CV-Project
+   git clone https://github.com/IshaTrivedi12/CV-Project.git
 
 
 
